@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>Generic repository for MongoDb</Title>
+    <Authors>Ali Tabryzy</Authors>
+    <Description>A Generic repository pattern for mongoDb</Description>
+    <Copyright>Ali Tabryzy 2019 </Copyright>
   </PropertyGroup>
 
 </Project>
