@@ -5,8 +5,14 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Title>Generic repository for MongoDb</Title>
     <Authors>Ali Tabryzy</Authors>
-    <Description>A Generic repository pattern for mongoDb</Description>
+    <Description>A Generic repository pattern implementaiton for mongoDb</Description>
     <Copyright>Ali Tabryzy 2019 </Copyright>
+    <PackageProjectUrl>https://github.com/AliTabryzy/com.appelinda.nuget.genericRepository</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/AliTabryzy/com.appelinda.nuget.genericRepository/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/AliTabryzy/com.appelinda.nuget.genericRepository/tree/master/src/Repository.MongoDb</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Generic,Repository,MongoDb</PackageTags>
+    <PackageId>Appelinda.Repository.MongoDb</PackageId>
   </PropertyGroup>
 
 </Project>
