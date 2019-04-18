@@ -15,4 +15,8 @@
     <PackageId>Appelinda.Repository.MongoDb</PackageId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.8.0" />
+  </ItemGroup>
+
 </Project>
